@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-height:1000px){
+@media only screen and (max-height:1500px){
   #ostrich {
   position: absolute;
   top: 100px;
